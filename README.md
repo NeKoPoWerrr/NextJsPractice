@@ -1,0 +1,2 @@
+# NextJsPractice
+for-learning-basic
