@@ -27,3 +27,8 @@ const Hello = () => {
 };
 
 export default Hello;
+
+/**
+ * how to use it
+ * change name into page.tsx
+ */
